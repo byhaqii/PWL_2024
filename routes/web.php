@@ -25,3 +25,5 @@ Route::get('/about', function () {
 Route::get('/user/{name}', function ($name) { 
     return 'Nama Saya '.$name;
 });
+
+// Bismillah
